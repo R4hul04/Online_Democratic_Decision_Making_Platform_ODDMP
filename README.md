@@ -4,4 +4,8 @@ The main objective of the Online Democratic Decision-Making Platform was to prov
 
 ![homw](https://github.com/R4hul04/Online_Democratic_Decision_Making_Platform_ODDMP/assets/78637928/08f007f7-849e-4edc-962e-f52eb1820517)
 
-
+Steps to RUN the application:
+1. Install Xammp server
+2. Install the source code and save it in C:\xampp\htdocs\
+3. Start the Xammp server for Apache and MySQL module
+4. Open localhost by typing localhost/Online_Democratic_Decision_Making_Platform_ODDMP
